@@ -2,6 +2,7 @@ class BlogsController < ApplicationController
   before_action :set_blog, only: [:show, :edit, :update, :destroy]
   #test
   #test2
+  #test3
   # GET /blogs
   # GET /blogs.json
   def index
